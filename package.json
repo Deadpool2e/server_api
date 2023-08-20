@@ -8,8 +8,5 @@
   },
   "dependencies": {
     "json-server": "^0.17.0" 
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
